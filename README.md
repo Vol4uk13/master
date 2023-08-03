@@ -11,3 +11,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vol4uk13&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vol4uk13&repo=master)](https://github.com/Vol4uk13/master)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Vol4uk13&theme=juicyfresh&title=Repositories,Stars,Commits,Followers,PullRequest,MultipleLang&margin-w=20)](https://github.com/ryo-ma/github-profile-trophy)
+
