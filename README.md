@@ -1,13 +1,16 @@
-Оператор связи «Ниединогоразрыва.ком» хочет научиться прогнозировать отток клиентов. Если выяснится, что пользователь планирует уйти, ему будут предложены промокоды и специальные условия. Команда оператора собрала персональные данные о некоторых клиентах, информацию об их тарифах и договорах.
+![image](https://github.com/Vol4uk13/master/assets/92542920/3395f4b9-ed09-40f6-b730-e034177b04ef)
 
-### Описание услуг
-Оператор предоставляет два основных типа услуг:
-1. Стационарную телефонную связь. Возможно подключение телефонного аппарата к нескольким линиям одновременно.
-2. Интернет. Подключение может быть двух типов: через телефонную линию (DSL*,* от англ. *digital subscriber line*, «цифровая абонентская линия») или оптоволоконный кабель (*Fiber optic*).  
-Также доступны такие услуги:
-- Интернет-безопасность: антивирус (*DeviceProtection*) и блокировка небезопасных сайтов (*OnlineSecurity*);
-- Выделенная линия технической поддержки (*TechSupport*);
-- Облачное хранилище файлов для резервного копирования данных (*OnlineBackup*);
-- Стриминговое телевидение (*StreamingTV*) и каталог фильмов (*StreamingMovies*).
-За услуги клиенты могут платить каждый месяц или заключить договор на 1–2 года. Доступны различные способы расчёта и возможность получения электронного чека.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Handjet&weight=700&size=50&pause=1100&width=700&height=100&lines=I+explore+the+world+with;Data+Science)](https://git.io/typing-svg)
+
+
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vol4uk13&theme=synthwave&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vol4uk13&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vol4uk13&repo=master)](https://github.com/Vol4uk13/master)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Vol4uk13&theme=tokyonight&title=Repositories,Stars,Commits,Followers,PullRequest,MultipleLang&margin-w=20)](https://github.com/ryo-ma/github-profile-trophy)
 
