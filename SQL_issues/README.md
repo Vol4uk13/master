@@ -1,6 +1,6 @@
 Данная база данных основана на датасете Startup Investments, опубликованном на популярной платформе для соревнований по исследованию данных [Kaggle](https://www.kaggle.com/justinas/startup-investments). 
 
-<img src="https://github.com/Vol4uk13/master/blob/master/SQL_issues/1_Baza_dannykh_1673427320.png" alt=»Описание картинки» />
+![ER-диаграмма](https://github.com/Vol4uk13/master/blob/master/SQL_issues/1_Baza_dannykh_1673427320.png) 
 
 
 В базе хранятся следующие таблицы:
