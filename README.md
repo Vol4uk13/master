@@ -26,17 +26,17 @@
 
 ## Контакты
 
-- email: radaevm@gmail.com
+- email: vol4uk13@gmail.com
 
 ### Выпускной проект
 
-| Название проекта | Описание | Навыки и инструменты |
+| Название проекта | Описание | Стек технологий |
 | --- | --- | --- |
 | [Прогнозирование оттока клиентов телеком компании](https://github.com/Vol4uk13/master/tree/master/Final_project) | Customer Churn forecasting | Target: ROC-AUC>0.85   Result: 0.93   Tools: ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54),Pandas,Numpy,Optuna,Catboost,  LGBM,RandomizedSearchCV, Phik, VotingClassifier, Matplotlib,Seaborn |
 
 ### Analytical tasks
 
-| Название проекта | Описание | Навыки и инструменты |
+| Название проекта | Описание | Стек технологий  |
 | --- | --- | --- |
 | [Internet-store 'Стримчик',  that sells computer games all over the world](https://github.com/Vol4uk13/master/tree/master/Control_project-1) | The task is to identify patterns that determine the success of the game. | Tools: ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54), Pandas, Matplotlib, Seaborn |
 | [Research of borrowers' reliability](https://github.com/Vol4uk13/master/tree/master/Data_preprocessing) | It is necessary to understand whether the marital status and the number of children of the client affect the fact of repayment of the loan on time. | Tools: ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54), Pandas, Matplotlib, Seaborn |
@@ -45,31 +45,31 @@
 
 ### Time series analysis
 
-| Название проекта | Описание | Навыки и инструменты |
+| Название проекта | Описание | Стек технологий |
 | --- | --- | --- |
 |[The company "Чëтенькое такси" has collected historical data on taxi orders at airports.](https://github.com/Vol4uk13/master/tree/master/Time_series) | It is necessary to predict the number of taxi orders for the next hour. | Metric: RMSE<48 Reached metric:42.97  Tools: ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54), Pandas, Matplotlib, Seaborn, Numpy, Scikit-learn (Sklearn) |
 
 ### Computer vision
 
-| Название проекта | Описание | Навыки и инструменты |
+| Название проекта | Описание | Стек технологий  |
 | --- | --- | --- |
 | [Supermarket "Bread-Salt" introduces a computer  vision system for processing customer photos](https://github.com/Vol4uk13/master/tree/master/Computer_vision) | It is necessary to develop a linear regression model that can determine  the approximate age of a person from a photo. | Metric: MAE>8; Reached metric: 5.55; Tools: ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54), Pandas, Matplotlib, Seaborn, Numpy, Tensorflow, Krras.  |
 
 ### ML for text
 
-| Название проекта | Описание | Навыки и инструменты |
+| Название проекта | Описание | Стек технологий |
 | --- | --- | --- |
 | ['Wikishop' online store launches a new service with users comments. (Classification task)](https://github.com/Vol4uk13/master/tree/master/ML_for_text) | Train the model to classify comments into positive and negative. | Metric: F1>0.75; Reached metric: 0.79; Tools: ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54), Pandas, Matplotlib, Seaborn, Numpy, pandarallel, spacy, nltk, SGDClassifier, LogisticRegression, LinearSVC, AdaBoostClassifier, TfidfVectorizer |
 
 ### SQL
 
-| Название проекта | Описание | Навыки и инструменты |
+| Название проекта | Описание | Стек технологий |
 | --- | --- | --- |
 | [Startup Investments: Venture deals, organizations, people and exits](https://github.com/Vol4uk13/master/tree/master/SQL_issues) | This diverse dataset contains information about the startup ecosystem: organizations, individuals, company news, funding rounds, acquisitions, and IPOs. There are 11 tables that can be joined using unique IDs | Tools: ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) |
 
 ### Projects with data preparation and feature engineering to model training and scoring, model training. 
 
-| Название проекта | Описание | Навыки и инструменты |
+| Название проекта | Описание | Стек технологий |
 | --- | --- | --- |
 | [Task of gold recovery for company 'Numbers' (Regression task)](https://github.com/Vol4uk13/master/tree/master/Control_project-2) | Prepare a model that should predict the recovery rate of gold from gold-bearing ore | Metric: SMAPE minimal;  Reached metric: 9.15;   Tools: ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54), Pandas, Numpy, Matplotlib, Seaborn, Scklearn: cross_val_score, StandardScaler, RandomizedSearchCV, LinearRegression, DecisionTreeRegressor, RandomForestRegressor |
 | [Analysis of customer behavior for mobile operator "Megaline" (Classification task)](https://github.com/Vol4uk13/master/tree/masterML) | Build a model that can analyze customer behavior and offer users a tariff. | Metric: Accuracy>0.75; Reached metric:0.8; Tools: ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54), Pandas,Matplotlib, Seaborn, Scklearn: RandomizedSearchCV, GridSearchCV, DecisionTreeClassifier, RandomForestClassifier, LogisticRegression, DummyClassifier |
