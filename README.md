@@ -1,5 +1,4 @@
-
-
+![photo](https://github.com/Vol4uk13/yandex_practicum/blob/master/photo-1560457079-9a6532ccb118.jpg)
 
 # Яндекс. Практикум
 
