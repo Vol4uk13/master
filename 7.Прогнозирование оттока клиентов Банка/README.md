@@ -4,7 +4,7 @@
 
 Нужно спрогнозировать, уйдёт клиент из банка в ближайшее время или нет. Предоставлены исторические данные о поведении клиентов и расторжении договоров с банком. Следует построить модель с предельно большим значением *F1*-меры.
 
-[Источник данных с сайта Kaggle:](https://www.kaggle.com/barelydedicated/bank-customer-churn-modeling)
+[Источник данных с сайта Kaggle](https://www.kaggle.com/barelydedicated/bank-customer-churn-modeling)
 
 ## Выводы
 
